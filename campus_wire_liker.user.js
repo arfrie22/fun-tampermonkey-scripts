@@ -2,6 +2,9 @@
 // @name        Campuswire Hammy Liker
 // @namespace   Violentmonkey Scripts
 // @match       https://campuswire.com/c/*
+// @match       http://campuswire.com/c/*
+// @match       https://campuswire.com/c
+// @match       http://campuswire.com/c
 // @grant       none
 // @version     1.1
 // @author      -
