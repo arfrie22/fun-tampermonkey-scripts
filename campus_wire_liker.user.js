@@ -7,6 +7,7 @@
 // @author      -
 // @description 2/15/2023, 10:10:41 PM
 // @updateURL    https://github.com/arfrie22/fun-tampermonkey-scripts/raw/main/campus_wire_liker.user.js
+// @downloadURL  https://github.com/arfrie22/fun-tampermonkey-scripts/raw/main/campus_wire_liker.user.js
 // @grant       GM_setValue
 // @grant       GM_getValue
 // ==/UserScript==
