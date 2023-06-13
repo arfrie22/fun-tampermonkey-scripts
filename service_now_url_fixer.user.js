@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://*.service-now.com/sc*.do
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      Andrew Friedman
 // @description 6/13/2023, 11:01:21 AM
 // @updateURL   https://github.com/arfrie22/fun-tampermonkey-scripts/raw/main/service_now_url_fixer.user.js
