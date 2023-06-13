@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Service now fixer
 // @namespace   Violentmonkey Scripts
-// @match       [https://*.service-now.com/sc*.do]https://*.service-now.com/sc*.do
+// @match       https://*.service-now.com/sc*.do
 // @grant       none
 // @version     1.0
 // @author      Andrew Friedman
