@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Service now fixer
+// @name        Service Now New Tab Fixer
 // @namespace   Violentmonkey Scripts
 // @match       https://*.service-now.com/sc*.do
 // @grant       none
